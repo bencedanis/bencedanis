@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bencedanis
 - 👀 I’m interested in Everything:)
-- 🌱 I’m currently learning PHP:')
-- 💞️ I’m looking to collaborate on someone to goood in PHP.
+- 🌱 I’m currently learning HTML, CSS, JavaScript:')
 - 📫 How to reach me: bence.danis9919@gmail.com
 
 <!---
